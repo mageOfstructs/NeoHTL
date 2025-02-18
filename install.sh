@@ -7,7 +7,8 @@ NERD_FONT_NAME="JetBrainsMono"
 NERD_FONT_EXT=".zip"
 NERD_FONT_URL="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/$NERD_FONT_NAME$NERD_FONT_EXT"
 
-NVIM_APPIMAGE_URL="https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
+#NVIM_APPIMAGE_URL="https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
+NVIM_APPIMAGE_URL="https://github.com/neovim/neovim/releases/download/v0.10.4/nvim-linux-x86_64.appimage"
 
 NEOVIM_CONFIG_USERNAME="mageOfStructs"
 NEOVIM_CONFIG_REPO_NAME="derg.nvim"
