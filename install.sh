@@ -91,7 +91,7 @@ cd ..
 
 curl -sL https://github.com/jesseduffield/lazygit/releases/download/v0.46.0/lazygit_0.46.0_Linux_x86_64.tar.gz -o $CUR_PATH/lazygit.tar.gz
 tar xf lazygit.tar.gz
-mv lazygit/lazygit root/bin/
+mv lazygit root/bin/
 
 mkdir -p ~/.local
 ln -sf $CUR_PATH/root/bin /home/$USER/.local/bin
