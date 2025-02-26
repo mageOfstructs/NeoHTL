@@ -93,6 +93,7 @@ curl -sL https://github.com/jesseduffield/lazygit/releases/download/v0.46.0/lazy
 tar xf lazygit.tar.gz
 mv lazygit root/bin/
 mkdir -p ~/.config/lazygit/
+touch ~/.config/lazygit/config.yml
 
 mkdir -p ~/.local
 ln -sf $CUR_PATH/root/bin /home/$USER/.local/bin
